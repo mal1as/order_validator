@@ -1,5 +1,5 @@
 # order_validator
-Order validator with Spring, lol
+Order validator with Spring as test task in Unlimint
 
 ### Usage: 
 1. `mvn clean install`
